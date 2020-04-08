@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/categories/hosts.xml</loc>
+  <lastmod>2020-03-17T21:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/categories/show.xml</loc>
+  <lastmod>2020-03-17T21:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/categories/skit.xml</loc>
+  <lastmod>2020-03-17T21:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/categories/skits.xml</loc>
+  <lastmod>2020-03-17T21:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/categories/talk.xml</loc>
+  <lastmod>2020-03-17T21:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/galleries/rss.xml</loc>
+  <lastmod>2020-03-17T21:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/rss.xml</loc>
+  <lastmod>2020-03-17T21:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/sitemap.xml</loc>
+  <lastmod>2020-03-17T21:50:00Z</lastmod>
+ </sitemap>
+</sitemapindex>

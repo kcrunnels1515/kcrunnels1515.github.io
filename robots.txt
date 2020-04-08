@@ -1,0 +1,4 @@
+Sitemap: http://vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion/sitemapindex.xml
+
+User-Agent: *
+Host: vrrsdldlf2zgus42xn37j45yk4ylxbsa56leguxq5utp4qp36jokk4id.onion
